@@ -1,0 +1,386 @@
+﻿Group,Subgroup,Descrizione_professione,Descrizione_professione2,subgroup1,subgroup2,Esco_Abilit_compet_essenz,Esco_conoscenze_essenz,Esco_Abilit_compet_opz,Conoscenze
+Statistici,"Attuario
+Data scientist
+Esperto in ricerca operativa
+Esperto ricerca operativa
+Statistici
+Statistico
+Statistico applicato
+Statistico economico
+Statistico esperto in controlli di qualità
+Statistico metodologico
+","Accertamenti tecnici per la valutazione delle situazioni di bilancio delle imprese assicurative
+Controllo della qualità dei dati rilevati
+Definizione e costruzione degli strumenti di rilevazione (es. questionari, interviste, canali di rilevazione, ecc.)
+Elaborazione dei piani di ammortamento per prestiti a lunga scadenza
+Elaborazione dell'impianto metodologico delle indagini (es. campionamento, individuazione delle stime di errore, definizione piani di controllo per la qualità del dato statistico ecc.)
+Elaborazione di calcoli e progetti occorrenti per la valutazione di nude proprietà e di usufrutti
+Elaborazione di piani tecnici per la trasformazione di imprese assicurative
+Elaborazioni statistiche di liquidazione degli enti di assicurazione sulla vita, di capitalizzazione e di prevenzione sociale
+Organizzazione di uffici statistico-attuariali delle imprese assicurative
+Progettazione di indagini per la rilevazione di dati di marketing (es. variabili descrittive dei consumatori, struttura offerta/domanda, dinamiche competitive,  modelli di previsione,  vendite, prezzi, canali di distribuzione, ecc.)
+Realizzazione delle analisi e delle interpretazioni dei dati statistici
+Redazione di relazioni e rapporti per la descrizione dei fenomeni rilevati
+Supervisione dello svolgimento dell'indagine
+","Elaborare piani tecnici per la trasformazione di imprese assicurative, effettuando valutazioni patrimoniali ed economiche per la rilevazione dei costi di gestione del rischio e la riorganizzazione dei vari uffici
+Progettare l’indagine, a partire dall’elaborazione dell’impianto metodologico, determinandone le modalità di realizzazione, le variabili da acquisire e misurare, costruendo gli strumenti per la rilevazione dei dati utili all’analisi del mercato
+Elaborare dati e redigere rapporti relativi ai fenomeni rilevati, controllando la correttezza delle modalità di svolgimento dell’indagine e la qualità dei dati acquisiti
+Valutare prodotti finanziari, assicurativi e previdenziali, dal punto di vista della profittabilità e solvibilità, elaborando i calcoli alla base dei piani di ammortamento e delle statistiche di liquidazione
+","consulente attuariale
+demografo demografa
+specialista in biometria
+statistico statistica
+","consulente attuariale
+demografo demografa
+specialista in biometria
+statistico statistica
+","correggere i dati
+costruire sistemi di raccomandazione
+creare rappresentazioni visive di dati
+eseguire calcoli matematici analitici
+gestire campioni di dati
+gestire sistemi di raccolta dei dati
+interpretare i dati attuali
+mettere in atto processi di controllo qualità dei dati
+normalizzare dati
+progettare schemi di database
+raccogliere dati TIC
+risultati del rapporto di analisi
+stabilire processi di dati
+sviluppare applicazioni di elaborazione dei dati","classificazione delle informazioni
+elaborazione analitica online
+estrazione di dati
+estrazione di informazioni
+linguaggi di interrogazione
+linguaggio di interrogazione resource description framework
+modelli di dati
+statistica
+tecniche di rappresentazione visiva","creare modelli di dati
+definire criteri di qualità dei dati
+eseguire estrazioni di dati
+gestire dati
+gestire l'architettura dei dati TIC
+gestire la classificazione dei dati TIC
+integrare dati TIC","LDAP
+LINQ
+MDX
+N1QL
+SPARQL
+XQuery
+business intelligence
+dati non strutturati
+valutazione della qualità dei dati"
+Cuochi in alberghi e ristoranti,"Aiuto cuoco
+Aiuto cuoco di ristorante
+Antipastiere
+Commis di cucina
+Cuochi in alberghi e ristoranti
+Cuoco
+Cuoco al frigorifero
+Cuoco antipastiere
+Cuoco capo partita
+Cuoco di albergo
+Cuoco di bordo
+Cuoco di partita di camera fredda
+Cuoco di partita di legumi
+Cuoco di partita di pesce
+Cuoco di partita di rosticceria
+Cuoco di partita di salse
+Cuoco di partita di zuppe
+Cuoco di ristorante
+Cuoco gastronomo
+ Cuoco gelatiere
+Cuoco pasticciere
+Cuoco pizzaiolo
+ Salsiere
+","Allestimento dei piatti
+Applicazione delle procedure di autocontrollo per la sicurezza dei prodotti alimentari
+Composizione artistica di piatti e vassoi
+Condimento/farcitura della pizza prima della cottura o a crudo
+Conservazione adeguata dei pani di pasta in fase di lievitazione
+Conservazione di materie prime
+Controllo delle materie prime
+Controllo dello stato delle attrezzature di cucina
+Coordinamento del personale di cucina
+Cottura degli alimenti (pietanze e dolci)
+Cottura della pizza sulla base del forno a disposizione (elettrico/a legna)
+Cura dell'igiene dei luoghi, delle attrezzature e del materiale operativo
+Decorazione di piatti e vassoi
+Elaborazione ricette dolciarie
+Gestione degli approvvigionamenti nei servizi di ristorazione
+Gestione della conservazione delle materie prime e degli alimenti
+Ideazione e sviluppo di ricette
+Manipolazione del disco di pasta per il conferimento delle dimensioni opportune (in larghezza e spessore)
+Preparazione degli impasti per la pizza
+Preparazione dei semilavorati
+Preparazione preliminare dei condimenti/farciture per la pizza
+","Effettuare la preparazione dell'impasto da pizza, seguendo con cura la fase di lievitazione e conservando i pani di pasta per evitare che si secchino
+Gestire i flussi di approvvigionamento, in base alle esigenze,  presidiando i rapporti con i fornitori e prestabilendo le modalità di immagazzinamento e conservazione delle materie prime
+Preparare le materie prime, nel rispetto dei tempi assegnati e sulla base del piano di lavoro ricevuto, selezionando, pulendo e lavorando gli alimenti e provvedendo, ove necessario, alla conservazione degli stessi
+Porzionare e distribuire le pietanze in piatti o vassoi, rispettando le regole standard di allestimento, avendo cotto i diversi alimenti, applicando i metodi di cottura più idonei, e preparato i semilavorati necessari
+Preparare i condimenti/farciture per la pizza, in base alle ricette previste, applicando i metodi di conservazione dei semilavorati in vista del loro successivo impiego
+Progettare il menù, tenendo conto del tipo di servizio e della valorizzazione dei piatti tradizionalmente offerti, allo stesso tempo innovando le proposte attraverso l'elaborazione e lo sviluppo di nuove ricette e l'originalità delle proposizioni estetiche
+Comporre i piatti da presentare o vassoi da esporre in un buffet, seguendo un personale senso artistico, utilizzando a fini decorativi diversi componenti (es. elementi dello stesso alimento o elementi esterni al contenuto del piatto)
+Garantire una corretta gestione degli ordinativi, stabilendo ruoli e attribuendo i compiti alle risorse,  in base alla programmazione dei flussi di lavoro e agli imprevisti
+Preparare le pizze e le focacce per la cottura, in base alle ricette, utilizzando gli impasti precedentemente preparati ed effettuando le farciture e la cottura sulla base del forno a disposizione
+Compiere le operazioni di cura delle attrezzature di cucina e di igienizzazione dei luoghi e del materiale operativo, in base alle indicazioni ricevute e applicando le procedure di autocontrollo per la sicurezza dei prodotti alimentari
+","capo chef pasticcere capo chef pasticcera
+chef privato chef privata
+cuoco-grigliere cuoca-grigliera
+cuoco di partita di pesce cuoca di partita di pesce
+cuoco specializzato in cucina dietetica cuoca specializzata in cucina dietetica
+cuoco cuoca
+pizzaiolo pizzaiola
+","addetta alla preparazione degli alimenti
+cuoco
+cuoca
+addetto alla preparazione degli alimenti
+chef
+capo pasticcera
+capo pasticcere
+pasticcera
+pasticcere
+capo chef pasticcere
+capo chef pasticcera
+cuoca di partita di pesce
+cuoco specializzato in cucina di pesce
+cuoco esperto in pesce
+cuoca specializzata in cucina di pesce
+cuoco di partita di pesce
+cuoca esperta in pesce
+cuoco-grigliere
+cuoco addetto alla griglia
+grigliere
+cuoca addetta alla griglia
+cuoca-grigliera
+grigliera
+cuoco in dietetica
+cuoca specializzata in cucina dietetica
+cuoca esperta in dietetica
+cuoca in dietetica
+cuoco specializzato in cucina dietetica
+cuoco esperto in dietetica
+cuoco privato
+chef privata
+chef privato
+cuoca privata
+pizzaiolo
+pizzaiola
+addetta alla preparazione della pizza
+addetto alla preparazione della pizza
+","consegnare la zona di preparazione di alimenti al turno successivo
+conservare le materie prime alimentari
+impiegare le tecniche di presentazione delle portate
+mantenere un ambiente di lavoro sicuro e igienico
+monitorare l'arrivo delle attrezzature da cucina ordinate
+pianificare i menu
+preparare pizze
+pulire l'area adibita alla preparazione di alimenti
+rispettare le norme sulla salute sulla sicurezza e sull'igiene insieme alla normativa rilevante in merito al tema alimentare
+smaltire rifiuti
+utilizzare il forno a legna
+utilizzare le tecniche di preparazione degli alimenti
+utilizzare strumenti di taglio per alimenti
+utilizzare tecniche di cottura","legislazione in materia di salute, sicurezza e igiene",,
+Commessi alle vendite al minuto,"Addetto al banco vendita di macelleria
+Addetto al banco vendita di panetteria
+Addetto al banco vendita di salumi
+Addetto al noleggio
+Addetto al rifornimento degli scaffali negli esercizi commerciali
+Addetto alla applicazione dei prezzi
+Addetto alla vendita di autoveicoli
+Addetto alla vendita di frutta e verdura
+Addetto alla vendita di prodotti informatici
+Addetto alla vendita di ricambi per auto e moto
+Addetto alle vendite nei banchi di mercato
+Addetto alle vendite nella grande distribuzione
+Addetto vendita di prodotti caseari
+Addetto vendita di prodotti gastronomici
+Addetto vendita di prodotti ittici
+Addetto vendita diretta (aziende agricole)
+Addetto vendite al minuto negli spacci industriali
+Aiuto commesso
+Assistente alla vendita
+Ausiliario di vendita
+Commessi delle vendite al minuto
+Commesso di banco
+Commesso di gioielleria
+Commesso di libreria
+Commesso di negozio
+Commesso di vendita
+Commesso specializzato
+Operatore di vendita
+Pratico di farmacia
+Venditore di cartelle del bingo
+","Allestimento degli scaffali e delle isole promozionali da adibire alla vendita dei prodotti secondo le direttive aziendali
+Assistenza al cliente in tutte le fasi della vendita con particolare riguardo all'illustrazione delle caratteristiche del prodotto alimentare
+Cura dell'esposizione della merce e del rifornimento degli scaffali
+Cura della pulizia e del riordino degli ambienti
+Cura della pulizia e del riordino di ambienti ed attrezzature nel rispetto delle norme igieniche e di corretta conservazione del prodotto alimentare
+Erogazione di informazioni tecniche sulle caratteristiche dei prodotti
+Fornitura al cliente di suggerimenti su prodotti/articoli che meglio rispondono alle sue esigenze, in funzione delle capacità di spesa e dei bisogni
+Illustrazione dei servizi connessi alla vendita (preventivi, ordini speciali, finanziamenti, consegne, ecc.)
+Monitoraggio sulle esigenze dei consumatori e comunicazione al capo reparto/esercente
+Offerta di piccoli assaggi per la degustazione (nuovi prodotti e modalità di impiego in cucina)
+Preparazione del pesce per la vendita
+Preparazione della carne per la vendita
+Preparazione della merce per la vendita (es. picking, confezionamento, prezzatura della merce, applicazione e rimozione dei dispositivi antitaccheggio, imbustamento della merce, ecc.)
+Preparazione di elaborati gastronomici pronti per il consumo (antipasti, piatti pronti, dessert, prodotti tipici, specialità, ecc.)
+Preparazione e confezionamento del prodotto alimentare per la vendita (pesatura, prezzatura, imbustamento, eventuale farcitura ecc.) nel rispetto delle norme igieniche
+Promozione di ulteriori vendite di prodotti aggiuntivi o complementari
+Rifornimento del banco alimentare e degli scaffali nel rispetto delle norme igieniche ed in base alle date di scadenza
+Rilevazione di eventuali non conformità del prodotto alimentare e segnalazione secondo procedure
+Smistamento, inventario e stoccaggio del prodotto alimentare nel rispetto delle norme per la corretta conservazione
+Sorveglianza sul comportamento della clientela (controllo su sottrazioni di merce)
+","Allestire e rifornire gli scaffali e le isole promozionali a partire dalle direttive aziendali preparando la merce per la vendita (es. picking, confezionamento, prezzatura della merce, applicazione e rimozione dei dispositivi antitaccheggio, imbustamento della merce ecc.), curando la pulizia e il riordino degli ambienti
+Smistare, inventariare e stoccare i prodotti alimentari, rilevando eventuali non conformità, avendo cura di rifornire il banco alimentare e gli scaffali e provvedendo alla  pulizia e al riordino di ambienti ed attrezzature nel rispetto delle norme igieniche e della corretta conservazione del prodotto alimentare
+Fornire al cliente informazioni tecniche e suggerimenti per l'acquisto di prodotti e/o articoli promuovendo vendite aggiuntive e illustrando ulteriori servizi connessi alla vendita
+Preparare e confezionare i prodotti alimentare per la vendita nel rispetto delle norme igieniche in base alle specifiche caratteristiche del prodotto (es. carne e pesce) preparando, ove richiesto, elaborati gastronomici o piccoli assaggi per la degustazione pronti per il consumo
+Assistere il cliente in tutte le le fasi della vendita con particolare riguardo all'illustrazione delle caratteristiche del prodotto alimentare
+Comunicare al capo reparto le esigenze dei consumatori a partire dal monitoraggio delle richieste della clientela
+Sorvegliare il comportamento della clientela controllando eventuali sottrazioni della merce
+",commesso di negozio di abbigliamento commessa di negozio di abbigliamento,"commessa di negozio di abbigliamento uomo donna
+commesso di negozio di abiti da sposa
+commessa di negozio di moda
+commesso di negozio di abbigliamento uomo donna
+commesso di negozio di abbigliamento
+commessa di negozio di abiti da sposa
+commessa di negozio di abbigliamento
+commessa di negozio di abbigliamento per bambini
+commesso di negozio di moda
+commessa di negozio di abbigliamento sportivo
+commessa di negozio di abiti da cerimonia
+commesso di negozio di abbigliamento per bambini
+commesso di negozio di abiti da cerimonia
+commesso di negozio di abbigliamento sportivo
+","applicare le competenze matematiche
+consigliare i clienti sugli accessori d'abbigliamento
+consigliare lo stile di abbigliamento
+dimostrare le caratteristiche dei prodotti
+emettere le fatture di vendita
+esaminare la merce
+eseguire l'ammissione dell'ordine
+eseguire la preparazione di prodotti
+fornire ai clienti servizi assistenza
+garantire la conformità ai requisiti legali
+garantire la soddisfazione del cliente
+impedire il taccheggio
+indirizzare il cliente nella scelta dei prodotti
+individuare i desideri del cliente
+monitorare il livello delle giacenze
+organizzare il deposito delle merci
+organizzare l'esposizione dei prodotti
+pianificare gli accordi postvendita
+portare a termine la vendita attiva
+proporre i capi di abbigliamento in base alla taglia del cliente
+rifornire gli scaffali
+tenere pulito il negozio
+trattare i rimborsi
+utilizzare canali di comunicazione diversi
+utilizzare il registratore di cassa
+vendere i capi d'abbigliamento ai clienti","argomentazione di vendita
+caratteristiche dei prodotti
+caratteristiche dei servizi
+comprensione del prodotto
+sistemi di commercio elettronico
+taglie degli articoli di abbigliamento
+tendenze della moda
+tipi di tessuto",eseguire piccoli interventi di sartoria,industria dell'abbigliamento
+Elettromeccanici,"Aggiustatore elettromeccanico
+Avvolgitore di trasformatori
+Bobinatore di piccoli apparecchi elettrici
+Collaudatore di apparecchi elettrici
+Collettorista
+Elettromeccanici
+Elettromeccanico
+Elettromeccanico di bordo
+Installatore di impianti elettromeccanici ed elettronici nautici
+Riavvolgitore di motori elettrici
+","Cablatura dell'impianto elettrico
+Collaudo degli apparati/impianti manutenuti
+Collaudo dell'impianto elettrico/elettronico
+Definizione degli aggiornamenti al processo di assemblaggio e installazione
+Elaborazione di report per dettagliare risultati e criticità
+Esecuzione dei cicli manutentivi ordinari/straordinari
+Esecuzione del montaggio dei particolari meccanici
+Esecuzione del montaggio delle componenti meccaniche, elettriche ed elettroniche (apparati a radiofrequenza, cablaggi elettrici, comandi di volo, ecc.)
+Esecuzione della diagnosi tecnica, strumentale e visiva dell'imbarcazione con lo scafo in metallo
+Esecuzione ri-lavorazioni (disassemblaggio e ri-assemblaggio)
+Individuazione dei componenti elettrici e/o elettronici necessari e funzionali all’installazione degli impianti elettrici/elettronici a bordo di imbarcazioni
+Installazione di singoli apparati e/o di sistemi di controllo integrati di bordo (impianti di produzione e distribuzione di energia, di governo dell’imbarcazione, di domotica, di telecomunicazione, di videosorveglianza, ecc.)
+Lettura ed interpretazione del disegno tecnico per l'assemblaggio di componenti e/o sistemi elettromeccanici
+Manutenzione ordinaria dei macchinari e degli attrezzi di montaggio e assemblaggio
+Monitoraggio delle attività di funzionamento  e recupero delle anomalie
+Posizionamento di canalizzazioni di elementi di distribuzione elettrica
+Predisposizione dei componenti per le operazioni di montaggio di assiemi elettronici e meccanici (apparati, ecc.)
+Predisposizione dei macchinari per la realizzazione del montaggio/assemblaggio (es. cambio tipo, regolazioni, regolazione parametri macchina-impianto, cambio programma macchina-impianto)
+Predisposizione di strumenti e attrezzature per l'assemblaggio di componenti e/o sistemi elettromeccanici (elettronici e meccanici)
+Realizzazione dei processi di accoppiamento/integrazione tra componenti elettromeccanici (termici, incollaggi, cablaggi, saldatura elettrica di componenti elettronici, resinatura, ecc.)
+Redazione di relazioni tecniche sugli interventi eseguiti
+Redazione di report e/o fogli di produzione e collaudo di componenti meccaniche
+Rilascio/certificazione dell'impianto elettrico
+Rimozione di impianti preesistenti
+Riparazione e/o sostituzione di elementi elettrici/elettronici danneggiati o usurati e di componenti difettosi
+Tracciatura per installazione dell'impianto elettrico e/o elettronico
+Validazione degli aggiornamenti al processo di assemblaggio/installazione
+Valutazione dell'efficienza e funzionalità delle parti/componenti
+Verifica e collaudo per la valutazione dell'integrità strutturale e la funzionalità dei componenti elettromeccanici
+","Effettuare la diagnosi tecnica (strumentale e visiva) degli impianti elettrici/elettronici di bordo, controllandone il funzionamento e identificando lo stato di usura e danneggiamento
+Eseguire le operazioni preliminari per l'assemblaggio e il montaggio delle componenti meccaniche, elettriche ed elettroniche di veicoli aerospaziali, a partire dagli elementi interpretativi delle caratteristiche di impiego richieste dal disegno tecnico, predisponendo  gli strumenti e le attrezzature da utilizzare e i diversi componenti necessari
+Predisporre i macchinari, a partire dalle specifiche ricevute, regolando i parametri in base al tipo di montaggio/assemblaggio da effettuare
+Realizzare gli interventi preliminari per l'installazione di impianti elettrici e/o elettronici a bordo di imbarcazioni, avendo preventivamente provveduto alla rimozione dell'impianto preesistente ed eseguendo le tracciature del nuovo
+Eseguire gli interventi di riparazione e/o sostituzione di apparati elettrici/elettronici danneggiati o usurati e di componenti difettose
+Eseguire il monatggio/assemblaggio delle parti meccaniche in base alle specifiche tecniche ricevute, monitorando in itinere il funzionamento delle componenti ed eseguendo le operazioni di disassemblaggio e ri-assemblaggio in presenza di anomalie e avendo cura di manutenere i macchinari e le attrezzature utilizzate
+Eseguire l'installazione dei diversi componenti dell'impianto elettrico/elettronico, posizionando le canaline e provvedendo all'installazione di singoli apparati e/o di sistemi di controllo integrati di bordo e realizzando la cablatura dell'impianto e l'allacciamento alla rete elettrica
+Realizzare il montaggio delle componenti meccaniche, elettriche ed elettroniche, eseguendo, successivamente, le procedure necessarie per  l'accoppiamento e l'integrazione (cablaggio, incollaggio, saldatura, resinatura, ecc.) dei diversi sistemi elettromeccanici
+Eseguire il collaudo degli apparati riparati e/o sostituiti, valutando l'efficienza e la funzionalità delle parti/componenti sottoposte all'intervento di manutenzione e provvedendo alla redazione delle relazioni tecniche sull’intervento eseguito
+Eseguire il collaudo, valutando l'integrità strutturale e la corretta funzionalità dei componenti assemblati/montati, elaborando, infine, il report di dettaglio sui risultati ottenuti e sulle eventuali criticità riscontrate
+Eseguire la verifica e il collaudo dell'impianto elettrico/elettronico realizzato, provvedendo al rilascio della certificazione secondo la normativa in vigore
+Redigere i report di produzione sulla base dei format previsti, indicando le forniture necessarie e specificando gli eventuali collaudi effettuati e definendo e validando gli eventuali aggiornamenti di processo effettuati
+",manutentore elettromeccanico manutentrice elettromeccanica,"elettricista a bordo macchina
+elettricista-meccanico
+manutentrice elettromeccanica
+manutentore elettromeccanico
+","adattare le attrezzature meccanizzate
+applicare le norme di sicurezza
+assemblare sistemi elettromeccanici
+calibrare sistemi elettromeccanici
+cavo di giunzione
+collaudare sistemi elettromeccanici
+collaudare unità elettroniche
+controllare forniture elettriche
+effettuare la manutenzione delle attrezzature elettriche
+indossare dispositivi di protezione adatti
+installare attrezzature elettriche ed elettroniche
+lavorare in maniera ergonomica
+manutenere apparecchiature elettromeccaniche
+risolvere i guasti delle attrezzature
+rispettare le normative sulla sicurezza elettrica
+utilizzare gli strumenti di misura
+utilizzare strumenti di precisione","elettricità
+elettromeccanica
+elettronica
+meccanica
+normative di sicurezza elettrica","applicare un rivestimento alle apparecchiature elettriche
+assemblare unità elettroniche
+assemblare unità meccatroniche
+effettuare i calcoli elettrici
+effettuare la manutenzione dei motori elettrici
+individuare soluzioni per la risoluzione dei problemi
+installare gli interruttori elettrici
+installare interruttori automatici
+installare l'impianto elettrico in un autoveicolo
+installare le prese elettriche
+ordinare forniture elettriche
+redigere relazioni di audit
+riparare componenti di batterie
+riparare il cablaggio
+rispondere alle richieste di preventivi
+sostituire componenti difettosi
+utilizzare apparecchiature di saldatura","accessori per cavi elettrici
+componenti di batterie
+generatori elettrici
+metodi di collaudo elettrico
+piani di cablaggio elettrico
+tecniche di brasatura
+tecnologia per l'automazione"
