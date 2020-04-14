@@ -25,22 +25,22 @@ dati_aprile = pd.read_csv('Job_vacancies_aprile_completo.csv', skiprows=1, useco
 print('Dataset shape {}'.format(dati_aprile.shape))
 
 print('I am starting the Preprocessing step')
-professioni.Subgroup = professioni.Subgroup.apply(lambda x: x.lower().split('\n'))
-professioni.subgroup1 = professioni.subgroup1.apply(lambda x: x.lower().split('\n'))
-professioni.subgroup2 = professioni.subgroup2.apply(lambda x: x.lower().split('\n'))
-professioni.Subgroup = professioni.Subgroup + professioni.subgroup1 + professioni.subgroup2
-professioni.Subgroup = professioni.Subgroup.apply(lambda x: list(set(x)))
+# professioni.Subgroup = professioni.Subgroup.apply(lambda x: x.lower().split('\n'))
+# professioni.subgroup1 = professioni.subgroup1.apply(lambda x: x.lower().split('\n'))
+# professioni.subgroup2 = professioni.subgroup2.apply(lambda x: x.lower().split('\n'))
+# professioni.Subgroup = professioni.Subgroup + professioni.subgroup1 + professioni.subgroup2
+# professioni.Subgroup = professioni.Subgroup.apply(lambda x: list(set(x)))
 
 professioni_dictionary = pd.Series(professioni.Subgroup.values,index=professioni.Group).to_dict()
 # to remove empty space from the subgroup list of values
-for i in range(0,professioni.Subgroup.shape[0]):
-    while("" in professioni.Subgroup.iloc[i]) : 
-        professioni.Subgroup.iloc[i].remove("") 
+# for i in range(0,professioni.Subgroup.shape[0]):
+#     while("" in professioni.Subgroup.iloc[i]) : 
+#         professioni.Subgroup.iloc[i].remove("") 
 
-subgroup_dict = {}
-for group, subgroups in professioni_dictionary.items():
-    for subgroup in subgroups:
-        subgroup_dict[subgroup] = group
+# subgroup_dict = {}
+# for group, subgroups in professioni_dictionary.items():
+#     for subgroup in subgroups:
+#         subgroup_dict[subgroup] = group
 
 # remove punctuation
 dati_aprile.Job_Description = dati_aprile.Job_Description.apply(lambda x: re.sub('[^a-zA-Z]',' ',x))
@@ -157,3 +157,5 @@ print(20*'*')
 print('Accuracy score: ', format(accuracy_score(y_test,predictions)))
 print(20*'#')
 print('Time to run the script: {}'.format(round(time.time() - start_time,4)))
+
+
