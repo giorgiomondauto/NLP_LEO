@@ -29,6 +29,13 @@ def get_key(value, dictionary):
 # Your API definition
 app = Flask(__name__)
 
+def stemming(dataset):
+                ''' stemming a text '''
+                stemmer = nltk.stem.snowball.ItalianStemmer(ignore_stopwords=False)
+                dataset['Job_Description'] = dataset['Job_Description'].apply(lambda x: [stemmer.stem(i) \
+                                                                        for i in x])
+                return dataset
+
 def uncommon_words(data,column, italian_vocab, english_vocab = None):
                 data[column] = data[column].apply(lambda x: [i for i in x if i in italian_vocab])
                 return data
@@ -70,6 +77,9 @@ def predict():
             english_vocab = sorted(set(w.lower() for w in nltk.corpus.words.words())) # english vocabulary
 
             dati_aprile = uncommon_words(dati_aprile, 'Job_Description', italian_vocab, english_vocab)
+            
+
+            dati_aprile = stemming(dati_aprile)
             dati_aprile.Job_Description = dati_aprile.Job_Description.apply(lambda x: ' '.join(x))
 
             count_vector = pickle.load(open("count_vector.pkl", "rb" ) )#CountVectorizer()
@@ -78,13 +88,28 @@ def predict():
             Role_dictionary = pickle.load(open("Role_dictionary.pkl", "rb" ) )
             naive_bayes = joblib.load("model.sav")
             predictions = naive_bayes.predict(testing_data)
+            predictions_prob = naive_bayes.predict_proba(testing_data)
+            probability_vectors = []
             predictions_keys = []
             for i in predictions:
                 predictions_keys.append(get_key(i,Role_dictionary))
+                probability_vectors = [i.round(3) for i in predictions_prob[0]]
+                #probability_vectors = [i for i in probability_vectors]
+                # print(probability_vectors)
+            #labels = ["Commesso","Statistico","Cuoco", "Cameriere", "Tecnico",'Elettromeccanico']
+            labels = ['Elettromeccanico','Cameriere','Commesso','Tecnico','Statistico','Cuoco']
+            dict_vect = {}
+            for lab,prob in zip(labels,probability_vectors):
+                dict_vect[lab]=prob
             finish_time = time.time()
 
-            return jsonify({'I am Naive Bayes and This is my prediction': ''.join(predictions_keys).upper(),\
-            'It took: ':str(round(finish_time - start_time,4)) + ' seconds'})
+            return jsonify({
+            'Hai anche questi requisiti ?': 'attestato HACCP - Diploma nel settore alberghiero',\
+            'Sei disponibile':'lavorare su turni, nel fine settimana.',\
+            'Secondo il nostro sistema, potresti anche candidarti come': 'Cameriere',
+            'Ti stai candidando come (system prediction)': ''.join(predictions_keys).upper(),\
+            'It took: ':str(round(finish_time - start_time,4)) + ' seconds',\
+            'labels: ':dict_vect})
 
         except:
 
