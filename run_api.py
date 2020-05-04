@@ -109,7 +109,7 @@ def predict():
             #'Hai anche questi requisiti ?': 'attestato HACCP - Diploma nel settore alberghiero',\
             #'Sei disponibile':'lavorare su turni, nel fine settimana.',\
             #'Secondo il nostro sistema, potresti anche candidarti come': 'Cameriere',
-            'Ti stai candidando come (system prediction)': ''.join(predictions_keys).upper(),\
+            'Stai cercando nella categoria (system prediction)': ''.join(predictions_keys).upper(),\
             'It took: ':str(round(finish_time - start_time,4)) + ' seconds',\
             'labels: ':dict_vect})
 
