@@ -22,6 +22,8 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import CountVectorizer
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('words')
+
 def get_key(value, dictionary):
     for k,v in dictionary.items():
         if value == v:
