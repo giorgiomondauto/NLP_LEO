@@ -1,6 +1,7 @@
 # Dependencies
 from flask import Flask, request, jsonify
-from sklearn.externals import joblib
+#from sklearn.externals import joblib
+import joblib
 import traceback
 import pandas as pd
 from nltk import word_tokenize
@@ -82,11 +83,11 @@ def predict():
             dati_aprile = stemming(dati_aprile)
             dati_aprile.Job_Description = dati_aprile.Job_Description.apply(lambda x: ' '.join(x))
 
-            count_vector = pickle.load(open("count_vector.pkl", "rb" ) )#CountVectorizer()
+            count_vector = pickle.load(open("count_vector2104.pkl", "rb" ) )#CountVectorizer()
             testing_data = count_vector.transform(dati_aprile['Job_Description'])
 
             Role_dictionary = pickle.load(open("Role_dictionary.pkl", "rb" ) )
-            naive_bayes = joblib.load("model.sav")
+            naive_bayes = joblib.load("model2104.sav")
             predictions = naive_bayes.predict(testing_data)
             predictions_prob = naive_bayes.predict_proba(testing_data)
             probability_vectors = []
